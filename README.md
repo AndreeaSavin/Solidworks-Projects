@@ -1,21 +1,21 @@
 # SolidWorks Projects
 
-## Imagini
-
-### Model 3D
-
-![Model 3D 1](https://github.com/user-attachments/assets/d8f55816-daca-409d-bca2-9f531b6987c7)
-![Model 3D 2](https://github.com/user-attachments/assets/3e8fc595-f386-4add-b658-fae052e26cc3)
-![Model 3D 3](https://github.com/user-attachments/assets/54e0ddba-c297-44c7-aa07-4206cbeba1fa)
-![Model 3D 4](https://github.com/user-attachments/assets/c2e4f06a-463e-4cd6-bf75-233c859b542b)
-![Model 3D 5](https://github.com/user-attachments/assets/839d9f41-9c45-4bec-b018-d07e90f2bfc4)
-![Model 3D 6](https://github.com/user-attachments/assets/4b25a873-993c-459b-be81-70056cb134d6)
-![Model 3D 7](https://github.com/user-attachments/assets/bdbc7927-41b5-4ee3-a75b-b0dbedff9683)
-![Model 3D 8](https://github.com/user-attachments/assets/50b39b8f-2f48-4617-9bea-c5a49acf3ff0)
-![Model 3D 9](https://github.com/user-attachments/assets/cd049841-79e4-4ca6-9de1-f6d3936cf126)
-![Model 3D 10](https://github.com/user-attachments/assets/e63f5e50-bf9c-464b-b7d1-02c458ea68c6)
-![Model 3D 11](https://github.com/user-attachments/assets/a1e00291-4f6d-452e-83c0-6bd6cb95ed5b)
-![Model 3D 12](https://github.com/user-attachments/assets/345e3504-62d3-498a-ad2f-6d2f2c1d32d2)
-
 ## Descriere
 Aceste imagini ilustrează modelele 3D realizate în SolidWorks. Proiectele demonstrează abilitățile mele în design și modelare 3D.
+
+### Model 3D
+![Screenshot 2024-10-02 151859](https://github.com/user-attachments/assets/dd33763c-68ed-432b-b920-0832d8a3c7ac)
+![Screenshot 2024-10-02 151749](https://github.com/user-attachments/assets/17fcd4b1-f37e-4d6d-890e-9ada1cfc1076)
+![Screenshot 2024-10-02 151538](https://github.com/user-attachments/assets/0e73d3a5-6c2f-4d7c-bf9b-3fd3bfd7d0ab)
+![Screenshot 2024-10-02 151110](https://github.com/user-attachments/assets/bfd90675-e9f5-411b-97ea-550777f0b300)
+![Screenshot 2024-10-02 150932](https://github.com/user-attachments/assets/2cc6b4ea-5e53-4b2f-9ceb-09303397a8ba)
+![Screenshot 2024-10-02 150840](https://github.com/user-attachments/assets/14793718-e860-4209-b7e1-e2272a3b2d2c)
+![Screenshot 2024-10-02 150606](https://github.com/user-attachments/assets/bdd20d1d-a078-4851-8580-13c9957648f7)
+![Screenshot 2024-10-02 153634](https://github.com/user-attachments/assets/3c888944-d54d-4d71-8228-312bb128790a)
+![Screenshot 2024-10-02 153117](https://github.com/user-attachments/assets/a4d9ad59-7aba-4445-ad07-8ade507bc876)
+![Screenshot 2024-10-02 152801](https://github.com/user-attachments/assets/dc7fa07e-5b3d-4dde-bf18-a86478968cda)
+![Screenshot 2024-10-02 152106](https://github.com/user-attachments/assets/fdac41eb-5f9d-490f-bd62-085f8966d8f5)
+
+
+
+
