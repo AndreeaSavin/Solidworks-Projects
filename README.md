@@ -1,13 +1,14 @@
 # SolidWorks Projects
 
-## Descriere
-Aceste imagini ilustrează modelele 3D realizate în SolidWorks. Proiectele demonstrează abilitățile mele în design și modelare 3D.
+## Imagini
 
 ### Model 3D
 
 ![Model 3D 1](https://github.com/user-attachments/assets/d8f55816-daca-409d-bca2-9f531b6987c7)
-![Model 3D 2 & 3](https://github.com/user-attachments/assets/3e8fc595-f386-4add-b658-fae052e26cc3)  <!-- Model 2 -->
-![Model 3D 4 & 5](https://github.com/user-attachments/assets/839d9f41-9c45-4bec-b018-d07e90f2bfc4)  <!-- Model 4 -->
+![Model 3D 2](https://github.com/user-attachments/assets/3e8fc595-f386-4add-b658-fae052e26cc3)
+![Model 3D 3](https://github.com/user-attachments/assets/54e0ddba-c297-44c7-aa07-4206cbeba1fa)
+![Model 3D 4](https://github.com/user-attachments/assets/c2e4f06a-463e-4cd6-bf75-233c859b542b)
+![Model 3D 5](https://github.com/user-attachments/assets/839d9f41-9c45-4bec-b018-d07e90f2bfc4)
 ![Model 3D 6](https://github.com/user-attachments/assets/4b25a873-993c-459b-be81-70056cb134d6)
 ![Model 3D 7](https://github.com/user-attachments/assets/bdbc7927-41b5-4ee3-a75b-b0dbedff9683)
 ![Model 3D 8](https://github.com/user-attachments/assets/50b39b8f-2f48-4617-9bea-c5a49acf3ff0)
@@ -16,3 +17,5 @@ Aceste imagini ilustrează modelele 3D realizate în SolidWorks. Proiectele demo
 ![Model 3D 11](https://github.com/user-attachments/assets/a1e00291-4f6d-452e-83c0-6bd6cb95ed5b)
 ![Model 3D 12](https://github.com/user-attachments/assets/345e3504-62d3-498a-ad2f-6d2f2c1d32d2)
 
+## Descriere
+Aceste imagini ilustrează modelele 3D realizate în SolidWorks. Proiectele demonstrează abilitățile mele în design și modelare 3D.
